@@ -1,4 +1,8 @@
 ramo tes d2
+<<<<<<< HEAD
 ramo teste d3
 
 alteracao no ramos master
+=======
+ramo teste d3
+>>>>>>> teste
